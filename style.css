@@ -1,0 +1,54 @@
+
+#top {
+    margin-top: 2rem;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+h4 {
+    text-align: center;
+}
+
+#homeText {
+    position: absolute;
+    top: 14rem;
+    left: 2rem;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+a,.white{
+    color: rgb(156, 185, 197);
+}
+
+pre {
+    margin: 2px auto;
+   
+    font-size: 1.1rem;
+}
+
+
+form {
+    color: #000000;
+}
+
+#contact {
+    background-color: rgb(49, 49, 54);
+}
