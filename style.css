@@ -52,3 +52,10 @@ form {
 #contact {
     background-color: rgb(49, 49, 54);
 }
+
+@media(max-width:374px){
+    pre.slide{
+        display: inline;
+        overflow: hidden;
+    }
+}
