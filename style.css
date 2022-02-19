@@ -56,6 +56,5 @@ form {
 @media(max-width:374px){
     pre.slide{
         display: inline;
-        overflow: hidden;
     }
 }
