@@ -23,7 +23,7 @@
 ### Services-Section
 ##### It provides all the services available in the fitness-club.
 
-![](./design/about.png)
+![](./design/ser.png)
 ### Footer
 ##### Footer has details and location of the fitness-club and there's also a link for bringing you back to home-page.
 
