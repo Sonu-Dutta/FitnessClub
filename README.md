@@ -7,27 +7,27 @@
 
 ##### The home page consists of navbar and background image with a quote. 
 
-![](./media/home.png)
+![](./design/home.png)
 
 ### SignUp-Section
 
-![](./media/sign.png)
+![](./design/sign.png)
 ##### On clicking the sign-up button, sign-up modal pops up! 
-![](./media/pop.png)
+![](./design/pop.png)
 
 ### About-Section
 ##### It provides detail of the fitness-club.
 
-![](./media/about.png)
+![](./design/about.png)
 
 ### Services-Section
 ##### It provides all the services available in the fitness-club.
 
-![](./media/about.png)
+![](./design/about.png)
 ### Footer
 ##### Footer has details and location of the fitness-club and there's also a link for bringing you back to home-page.
 
-![](./media/footer.png)
+![](./design/footer.png)
 
 
 ## My process
